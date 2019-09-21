@@ -1,0 +1,627 @@
+<!doctype html>
+<html>
+<head>
+    <title>中国法治发展战略研究网</title>
+    <link href="/r/cms/www/red/css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/r/cms/www/red/js/flashobj.js"></script>
+    <script src="/r/cms/jquery.js" type="text/javascript"></script>
+    <script src="/r/cms/front.js" type="text/javascript"></script>
+	<script src="/r/cms/www/red/js/common.js" type="text/javascript"></script>
+    <script src="/r/cms/www/red/js/FlashMovie.js" type="text/javascript"></script>
+    <script src="/r/cms/www/red/js/AC_RunActiveContent.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/r/cms/www/red/js/jquery-1.11.2.js"></script>
+    <script type="text/javascript" src="/r/cms/www/red/js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="/r/cms/www/red/js/main.js"></script>
+    <script type="text/javascript">
+$(function() {
+  Cms.attachment("","7333","0","attach");
+  Cms.viewCount("","7333");
+});
+</script>
+</head>
+
+<body class="abg">
+	<!-- 导航 begin-->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>中国法制发展战略研究网</title>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="top">
+	<div class="topFlash">
+   	  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1002" height="180">
+    	  <param name="movie" value="/r/cms/www/red/images/top.swf">
+    	  <param name="quality" value="high">
+    	  <param name="wmode" value="opaque">
+    	  <param name="swfversion" value="8.0.35.0">
+    	  <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    	  <param name="expressinstall" value="Scripts/expressInstall.swf">
+    	  <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    	  <!--[if !IE]>-->
+    	  <object type="application/x-shockwave-flash" data="/r/cms/www/red/images/top.swf" width="1002" height="180">
+    	    <!--<![endif]-->
+    	    <param name="quality" value="high">
+    	    <param name="wmode" value="opaque">
+    	    <param name="swfversion" value="8.0.35.0">
+    	    <param name="expressinstall" value="Scripts/expressInstall.swf">
+    	    <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+    	    <div>
+    	      <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+    	      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com//r/cms/www/red/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+  	      </div>
+    	    <!--[if !IE]>-->
+  	    </object>
+    	  <!--<![endif]-->
+  	  </object>
+    </div>
+    <div class="menu">
+    	<ul>
+        	<li class="nav-item">
+            	<a href="/">首页</a>
+            </li>
+        	<li class="nav-item">
+                   <a href="/zxjs.jhtml" id="zxgk" target="_self">机构概况</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/zxjs.jhtml" id='zxjs'>中心简介</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/zzjg.jhtml" id='zzjg'>组织架构</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/yzjy.jhtml" id='yzjy'>院长寄语</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/xswyh/index.jhtml" id='xswyh'>学术委员会</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/gjgwy.jhtml" id="zkzj" target="_self">智库专家</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/gjgwy/index.jhtml" id='gjgwy'>学术顾问</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/sxzj/index.jhtml" id='sxzj'>首席专家</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/tpzj/index.jhtml" id='tpzj'>驻库专家</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/yjy/index.jhtml" id='yjy'>青年专家</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/fzxw/index.jhtml" id="fzxw" target="_self">智库动态</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/zxfw/index.jhtml" id='zxfw'>决策咨询</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/gdjc/index.jhtml" id='gdjc'>重要决策</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/zxdt/index.jhtml" id='zxdt'>法治新闻</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/yjywk/index.jhtml" id='yjywk'>精品文库</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/mtjj/index.jhtml" id='mtjj'>媒体聚焦</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/yjfx.jhtml" id="xkjs" target="_self">学科建设</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/yjfx/index.jhtml" id='yjfx'>研究方向</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/kcsz/index.jhtml" id='kcsz'>课程设置</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/xkdjs/index.jhtml" id='xkdjs'>学科点建设</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/fzpg/index.jhtml" id='fzpg'>评价模式</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/yjly.jhtml" id="kxyj" target="_self">科学研究</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/yjly/index.jhtml" id='yjly'>研究领域</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/yjkt/index.jhtml" id='yjkt'>课题管理</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/xmgl/index.jhtml" id='xmgl'>项目管理</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/yjcg/index.jhtml" id='yjcg'>研究成果</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/yjspy.jhtml" id="rcpy" target="_self">人才培养</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/yjspy/index.jhtml" id='yjspy'>研究生培养</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/dsjs/index.jhtml" id='dsjs'>师资队伍</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/jpkc/index.jhtml" id='jpkc'>精品课程</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/zzwc/index.jhtml" id='zzwc'>治理文萃</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+                   <a href="/gjlt.jhtml" id="dwjl" target="_self">合作交流</a>
+                  
+                     <ul class="nav-menu">
+                                 <li class="nav-menu nav-sp"><a href="/zlhz/index.jhtml" id='zlhz'>战略合作</a></li>
+                                 <li class="nav-menu nav-sp"><a href="/gjlt/index.jhtml" id='gjlt'>学术交流</a></li>
+                      </ul>
+            </li>
+        	<li class="nav-item">
+    			<a href="http://fa-ce.znufe.edu.cn/english/index.jhtml" target="new">English</a>
+            </li>
+        	<li class="nav-item">
+    			<a href="http://fa-ce.znufe.edu.cn/admin/cms/login.do?returnUrl=/admin/cms/index.do" target="new">后台管理</a>
+            </li>
+        </ul>
+    </div>
+    <div class="newsList">
+    	<ul class="left">
+        	<li class="tit">滚动新闻：</li>
+            <li class="tx">
+            <marquee id="mar1" scrollAmount="1" scrolldelay="100" direction="up" height="48" aligh="center"　VSPACE="2" onmouseout="scollStart()" onmouseover="scollStop()">
+            			<a href="/yjfx/7396.jhtml"  title="社会治理法学专业博士生研究方向  （2019年修订）" target="new">·社会治理法学专业博士生研究方..</a>
+            			<a href="/zxdt/7395.jhtml"  title="徐汉明教授及徐凯博士在China Legal Science (《中国法学》（英文版）)上发表署名文章" target="new">·徐汉明教授及徐凯博士在China ..</a>
+            			<a href="/yjywk/7394.jhtml"  title="习近平新时代中国特色社会主义经济思想内涵、特质与意义" target="new">·习近平新时代中国特色社会主义..</a>
+             </marquee>
+            </li>
+        </ul>
+    </div>
+</div>
+                    <script type="text/javascript">
+                        var prolld096840fd5ef46438f16c30e9fb51a8e = new Cms.UpRoller("d096840fd5ef46438f16c30e9fb51a8e", 20, true, 100, 1, 1, 20);
+                    </script>
+</body>
+</html>
+	<!-- 导航栏 end-->
+	<div class="framBody">
+		<div class="framLeft">
+﻿			<div class="sedMenu">
+								<ul class="sedMenuTitle">
+						<li>
+			        		专题
+						</li>
+					</ul>
+					<ul class="sedMenuContent">
+	                     	<li class="sedMenu2"> 
+                            <a href="/xjpzglzll/index.jhtml" id='xjpzglzll'>习近平治国理政理论</a>
+	                     	</li>
+	                     	 
+	                     	<li class="sedMenu2"> 
+                            <a href="/shfzqy/index.jhtml" id='shfzqy'>社会治理前沿</a>
+	                     	</li>
+	                     	 
+	                     	<li class="sedMenu2"> 
+                            <a href="/fzdjt/index.jhtml" id='fzdjt'>法治中国大讲堂</a>
+	                     	</li>
+	                     	 
+	                     	<li class="sedMenu2"> 
+                            <a href="/qnlt/index.jhtml" id='qnlt'>法治社会长江论坛</a>
+	                     	</li>
+	                     	 
+		           </ul>
+                	<ul class="sedMenuBottom"><img src="/r/cms/www/red/images/index8.gif" width="224" height="27" /></ul>
+			</div>
+            <div class="homeZkzj" id="demo">
+           	  	<ul class="top">
+                	<li><a href="http://202.114.226.4:8081/webdb/index.php?m=content&c=index&a=lists&catid=20" target="new">智库专家 </a></li>
+              </ul>
+                <ul class="contentScroll">
+                <div id="sp">
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3283.jhtml" title="敬大力" target="_blank"><img src="/u/cms/www/201802/04181207gxv4.jpg" alt="敬大力" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3283.jhtml"  title="敬大力" target="_blank">敬大力</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3283.jhtml"  title="现任北京市人民检察院党组书记、检察长、检察委员会委员" target="_blank">现任北京市人民检察院党组书记、检察长、检察委员会委员</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3287.jhtml" title="尹汉宁" target="_blank"><img src="/u/cms/www/201802/041808347iot.jpg" alt="尹汉宁" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3287.jhtml"  title="尹汉宁" target="_blank">尹汉宁</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3287.jhtml"  title="现任全国哲学社会科学规划领导小组副组长" target="_blank">现任全国哲学社会科学规划领导小组副组长</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3290.jhtml" title="顾海良" target="_blank"><img src="/u/cms/www/201802/04180454gw82.jpg" alt="顾海良" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3290.jhtml"  title="顾海良" target="_blank">顾海良</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3290.jhtml"  title="“马恩工程”领导小组委员会专家委员" target="_blank">“马恩工程”领导小组委员会专家委员</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3294.jhtml" title="江必新" target="_blank"><img src="/u/cms/www/201802/04175613pesw.jpg" alt="江必新" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3294.jhtml"  title="江必新" target="_blank">江必新</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3294.jhtml"  title="现任最高人民法院党组副书记、副院长" target="_blank">现任最高人民法院党组副书记、副院长</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3298.jhtml" title="田期玉" target="_blank"><img src="/u/cms/www/201802/04173044xm2o.png" alt="田期玉" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3298.jhtml"  title="田期玉" target="_blank">田期玉</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3298.jhtml"  title="现任中华民营企业联合会顾问委员会副主席，曾任公安部副部长" target="_blank">现任中华民营企业联合会顾问委员会副主席，曾任公安部副部长</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3299.jhtml" title="王利明" target="_blank"><img src="/u/cms/www/201802/04170852h52s.jpg" alt="王利明" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3299.jhtml"  title="王利明" target="_blank">王利明</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3299.jhtml"  title="中国人民大学常务副校长、长江学者”特聘教授" target="_blank">中国人民大学常务副校长、长江学者”特聘教授</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3300.jhtml" title="樊崇义" target="_blank"><img src="/u/cms/www/201802/0417074993wg.jpg" alt="樊崇义" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3300.jhtml"  title="樊崇义" target="_blank">樊崇义</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3300.jhtml"  title="中国政法大学诉讼法学研究院名誉院长" target="_blank">中国政法大学诉讼法学研究院名誉院长</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3301.jhtml" title="陈光中" target="_blank"><img src="/u/cms/www/201802/04170540qwnn.jpg" alt="陈光中" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3301.jhtml"  title="陈光中" target="_blank">陈光中</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3301.jhtml"  title="著名法学家、法学教育家，中国政法大学授予终身教授" target="_blank">著名法学家、法学教育家，中国政法大学授予终身教授</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3302.jhtml" title="高铭暄" target="_blank"><img src="/u/cms/www/201802/02161908ufyj.jpg" alt="高铭暄" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3302.jhtml"  title="高铭暄" target="_blank">高铭暄</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3302.jhtml"  title="北京师范大学刑事法律科学研究院名誉院长、中国人民大学法学院荣誉一级教授" target="_blank">北京师范大学刑事法律科学研究院名誉院长、中国人民大学法学院荣誉一级教授</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/3303.jhtml" title="郭道晖" target="_blank"><img src="/u/cms/www/201802/04182809r01d.jpg" alt="郭道晖" /></a></li>
+                    	<li class="name"><a href="/gjgwy/3303.jhtml"  title="郭道晖" target="_blank">郭道晖</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/3303.jhtml"  title="著名法学家，法治思想家，中国法学会法理学研究会顾问" target="_blank">著名法学家，法治思想家，中国法学会法理学研究会顾问</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/xswyh/2859.jhtml" title="徐汉明" target="_blank"><img src="/u/cms/www/201603/31222147qjpm.jpg" alt="徐汉明" /></a></li>
+                    	<li class="name"><a href="/xswyh/2859.jhtml"  title="徐汉明" target="_blank">徐汉明</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/xswyh/2859.jhtml"  title="中南财经政法大学法治发展与司法改革研究中心主任，湖北法治发展战略研究院院长，教授、博士生导师" target="_blank">中南财经政法大学法治发展与司法改革研究中心主任，湖北法治发展战略研究院院长，教授、博士生导师</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/xswyh/2862.jhtml" title="齐文远" target="_blank"><img src="/u/cms/www/201802/04171229oqrv.jpg" alt="齐文远" /></a></li>
+                    	<li class="name"><a href="/xswyh/2862.jhtml"  title="齐文远" target="_blank">齐文远</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/xswyh/2862.jhtml"  title="中国刑法学会副会长" target="_blank">中国刑法学会副会长</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/5286.jhtml" title="张文显" target="_blank"><img src="/u/cms/www/201802/04163926qokp.jpg" alt="张文显" /></a></li>
+                    	<li class="name"><a href="/gjgwy/5286.jhtml"  title="张文显" target="_blank">张文显</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/5286.jhtml"  title="现任中国法学会党组成员、副会长、学术委员会主任" target="_blank">现任中国法学会党组成员、副会长、学术委员会主任</a>
+                        </li>
+                	</ul>
+                	<ul class="content">
+                		<li class="pic"><a href="/gjgwy/5297.jhtml" title="黄进" target="_blank"><img src="/u/cms/www/201802/04182031pdd9.jpg" alt="黄进" /></a></li>
+                    	<li class="name"><a href="/gjgwy/5297.jhtml"  title="黄进" target="_blank">黄进</a></li>
+                    	<li class="tx" style="min-height:30px">
+                        <a href="/gjgwy/5297.jhtml"  title="曾任中国政法大学校长、法学教授、博士生导师，中国法学会副会长" target="_blank">曾任中国政法大学校长、法学教授、博士生导师，中国法学会副会长</a>
+                        </li>
+                	</ul>
+                </div>
+                </ul>
+                <ul class="bottom"></ul>
+            </div>   
+            <div class="homeJpwk">
+           	  <ul class="top">
+                	<li><a href="/sxzjgzs/index.jhtml" target="new">首席专家工作室</a></li>
+              </ul>
+                <ul class="content">
+                	<li class="act">
+                    	<a href="/shzlfzyjgzs/index.jhtml"  title="社会治理法治研究工作室" target="_blank">社会治理法治研究工作室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/jbggfwbzfzyjs/index.jhtml"  title="基本公共服务保障法治研究工作室" target="_blank">基本公共服务保障法治研究工..</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/ggaqzlbzyjgzs/index.jhtml"  title="公共安全法治保障研究工作室" target="_blank">公共安全法治保障研究工作室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/wlshzlyjgzs/index.jhtml"  title="网络社会治理法研究工作室" target="_blank">网络社会治理法研究工作室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/fzpgyjgzs/index.jhtml"  title="法治评估研究工作室" target="_blank">法治评估研究工作室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/sftzggyjgzs/index.jhtml"  title="司法体制改革研究工作室" target="_blank">司法体制改革研究工作室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/mzswzlfzyjs/index.jhtml"  title="民族事务治理法治研究室" target="_blank">民族事务治理法治研究室</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/fzrcjypyyjs/index.jhtml"  title="法治人才教育培养研究室" target="_blank">法治人才教育培养研究室</a>
+                    </li>
+                </ul>
+                <ul class="bottom"></ul>
+            </div>  
+
+﻿            <div class="homePic">
+            	<ul>
+                		<li><a href="http://fa-ce.znufe.edu.cn/xjpzglzll/index.jhtml" target="_blank"><img src="/r/cms/www/red/images/mm10.jpg" width="220" height="66"></a></li>	
+                </ul>
+            	<ul>
+                		<li><a href="http://fa-ce.znufe.edu.cn/zxfw/index.jhtml" target="_blank"><img src="/r/cms/www/red/images/mm9.jpg" width="220" height="66"></a></li>
+                </ul>
+            	<ul>
+                		<li><a href="http://202.114.226.4:8081/webdb/" target="_blank"><img src="/r/cms/www/red/images/mm3.jpg" width="220" height="66"></a></li>
+  				</ul>
+            	<ul>
+                		<li><a href="http://202.114.226.4:8089" target="_blank"><img src="/r/cms/www/red/images/mm6.jpg" width="220" height="66"></a></li>
+  				</ul>
+            	<ul>
+                	<li><a><img src="/r/cms/www/red/images/mm7.jpg" width="220" height="66"></a></li>
+  				</ul>
+            	<ul>
+                		<li><a><img src="/r/cms/www/red/images/mm8.jpg" width="220" height="66"></a></li>
+  </ul>
+            </div>
+            <div class="homeJpwk">
+           	  <ul class="top">
+                	<li><a href="/yjywk/index.jhtml" target="new">精品文库</a></li>
+              </ul>
+                <ul class="content">
+                	<li class="act">
+                    	<a href="/yjywk/7394.jhtml"  title="习近平新时代中国特色社会主义经济思想内涵、特质与意义" target="_blank">习近平新时代中国特色社会主..</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/yjywk/6989.jhtml"  title="网络舆情与司法行为的博弈分析" target="_blank">网络舆情与司法行为的博弈分析</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/yjywk/6987.jhtml"  title="机遇与挑战：自媒体时代中国国家治理的双面境遇——基于自媒体的传播规律" target="_blank">机遇与挑战：自媒体时代中国..</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/yjywk/6986.jhtml"  title="德国同性伴侣的平等保护:以联邦宪法法院的判例为中心" target="_blank">德国同性伴侣的平等保护:以..</a>
+                    </li>
+                	<li class="act">
+                    	<a href="/yjywk/6984.jhtml"  title="中外检察官客观义务比较研究" target="_blank">中外检察官客观义务比较研究</a>
+                    </li>
+                </ul>
+                <ul class="bottom"></ul>
+            </div>
+            <div class="homeJpwk">
+           	  <ul class="top">
+                	<li><a>关注我们</a></li>
+              </ul>
+                <ul class="content">
+                	<li><img src="/r/cms/www/red/images/wbwx.jpg" width="100%"></li>
+                </ul>
+                <ul class="bottom"></ul>
+            </div>     	</div>
+        <div class="frameContent">
+        	<div class="top">
+            	<ul>
+                	<li class="tit">当前位置：</li>
+                    <li>
+							<a href='/zt/index.jhtml'>专题</a>
+							&gt; <a href='/fzdjt/index.jhtml'>法治中国大讲堂</a>
+                    </li>
+                </ul>
+            </div>
+        	<div class="content">
+            	<ul class="contentTit">
+                	<li> “法治中国”大讲堂  第二十六讲</li>
+                </ul>
+                <ul class="contentTx">
+                	<li>
+                    	<a>发布时间：2019-07-01</a>
+                    	<a>浏览次数：<span id="views"></span>次</a>
+                    </li>
+                </ul>
+                <ul class="contentInf">
+                	<li class="dmt">
+                    </li>
+                	<li class="pic">
+                    </li>
+                	<li class="tx">
+                    	<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><font face="Calibri"><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt">&ldquo;法治中国&rdquo;大讲堂</span></b><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></font></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><font face="Calibri"><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt">&mdash;社会治理法治建设与经济发展</span></b><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></font></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt; mso-pagination: widow-orphan"><font face="Calibri"><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt">第二十</span></b><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt">六</span></b><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt">讲：</span></b><b><span style="font-family: 楷体_GB2312; font-size: 22pt; font-weight: bold; mso-spacerun: 'yes'; mso-hansi-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></font></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 14pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">The role of the prosecutor in upholding the rule of law</span></b><b><span style="font-family: 仿宋; font-size: 14pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 14pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">检察官在维护法治方面的作用</font></span></b><b><span style="font-family: 仿宋; font-size: 14pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt">&nbsp;</p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt">&nbsp;</p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋"><img style="width: 232px; height: 292px" alt="" src="/u/cms/www/201907/01163516kl45.jpg" /></font></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt">&nbsp;</p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt">&nbsp;</p>
+<p class="MsoNormal" style="text-align: left; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">主讲人</font>:詹姆斯&middot;汉密尔</span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">顿</font></span></b><span style="font-family: 宋体; font-size: 12pt; mso-spacerun: 'yes'; mso-hansi-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: Calibri">&nbsp;&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 12pt; mso-spacerun: 'yes'; mso-hansi-font-family: DFKai-SB; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: DFKai-SB"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: -36pt; margin: 0pt 0pt 0pt 36pt; mso-char-indent-count: -3.0000"><span style="font-family: 宋体; font-size: 12pt; mso-spacerun: 'yes'; mso-hansi-font-family: DFKai-SB; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: DFKai-SB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family: 宋体; font-size: 11pt; mso-spacerun: 'yes'; mso-hansi-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: Calibri">1999<font face="宋体">年至</font><font face="Calibri">2011</font><font face="宋体">年担任爱尔兰检察署署长（爱尔兰检察机关负责人）。自</font><font face="Calibri">2011</font><font face="宋体">年退休以来，一直担任独立顾问</font></span><span style="font-family: 宋体; font-size: 11pt; mso-spacerun: 'yes'; mso-hansi-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: Calibri"><font face="宋体">，</font></span><span style="font-family: 宋体; font-size: 11pt; mso-spacerun: 'yes'; mso-hansi-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-ascii-font-family: Calibri"><font face="宋体">专注于法治，公法，司法和检察制度，宪法司法，刑事司法法和反腐败等问题。除了在公诉和政府法律咨询工作方面的丰富经验外，他还拥有丰富的国际经验。</font>1998<font face="宋体">年至</font><font face="Calibri">2014</font><font face="宋体">年，担任欧洲委员会威尼斯委员会的爱尔兰成员或替补成员，并担任许多意见和报告的报告员。</font></span><b><span style="font-family: 仿宋; color: rgb(192,0,0); font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-align: left; margin: 0pt; mso-pagination: widow-orphan"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">讲座题目</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">：</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">The role of the prosecutor in upholding the rule of law</span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">检察官在维护法治方面的作用</font></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: center; margin: 0pt">&nbsp;</p>
+<p class="MsoNormal" style="text-indent: -84.35pt; margin: 0pt 0pt 0pt 84.35pt; mso-char-indent-count: -7.0000"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">主</font> <font face="仿宋">持</font> <font face="仿宋">人</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">：</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">中南财经政法大学法治发展与司法改革研究中</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">心院长助理</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">&nbsp;&nbsp;&nbsp;</span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-indent: -24.1pt; margin: 0pt 0pt 0pt 84.25pt; mso-char-indent-count: -2.0000; mso-para-margin-left: 5.7300gd"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">郭泽强</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">教授</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">翻</font> &nbsp;&nbsp;</span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">&nbsp;</span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">译：中南财经政法大学法治发展与司法改革研究中</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">心国际交流部部长</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-indent: 60.25pt; margin: 0pt; mso-char-indent-count: 5.0000"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">周凌副教授</font></span></b><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">主办单位：</font></span></b><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">中南财经政法大学法治发展与司法改革研究中心</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 60pt; margin: 0pt; mso-char-indent-count: 5.0000"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">教育部社会治理法治建设创新团队</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 60pt; margin: 0pt; mso-char-indent-count: 5.0000"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">中国法学会法治研究基地</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 60pt; margin: 0pt; mso-char-indent-count: 5.0000"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">最高人民检察院检察应用理论研究基地</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 60pt; margin: 0pt; mso-char-indent-count: 5.0000"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">湖北省人文社科重点研究基地</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 60pt; margin: 0pt; mso-char-indent-count: 5.0000"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">湖北法治发展战略研究院</font> &nbsp;</span><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">时</font> &nbsp;&nbsp;&nbsp;<font face="仿宋">间：</font></span></b><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">201</span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">9</span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">年</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">7</span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">月</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt">4</span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">日（星期</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">四</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">）</font>14:30-17:30</span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0pt"><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">地</font> &nbsp;&nbsp;&nbsp;<font face="仿宋">点：</font></span></b><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">中南财经政法大学法治发展与司法改革研究中心</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">一</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">楼</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">教</font></span><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="仿宋">室</font></span><b><span style="font-family: 仿宋; font-size: 12pt; font-weight: bold; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0pt"><span style="font-family: 仿宋; font-size: 12pt; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p>&nbsp;</o:p></span></p>
+<p><!--EndFragment--></p>
+                    </li>
+                </ul>
+                <ul class="pages">
+                	<li>
+                		<strong>上一篇：</strong>没有了
+                	</li>
+                	<li>
+                		<strong>下一篇：</strong>
+                		<a href="/fzdjt/6686.jhtml">“法治中国”大讲堂——第二十五讲：根据2030联合国可持续发展目标打击犯罪</a>
+                	</li>
+                </ul>
+            </div>
+        </div>
+	</div>
+</div>
+
+<div class="framBody">
+    <div class="frameBook">
+        <marquee style="WIDTH: 100%; height:150px;" scrollamount="2" direction="left" >
+            <a href="#"><img src="/r/cms/www/red/images/book01.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book02.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book03.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book04.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book05.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book06.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book07.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book08.jpg" width="107" height="150"></a>
+            <a href="#"><img src="/r/cms/www/red/images/book09.jpg" width="107" height="150"></a>
+</marquee >
+    </div>
+</div>
+			<div class="fLink">
+               <ul class="content">
+               					<li><a href="http://www.znufe.edu.cn/" target="_blank" title="中南财经政法大学网">中南财经政法大学网</a></li>
+					<li><a href="http://www.hbjc.gov.cn/" target="_blank" title="湖北省人民检察院">湖北省人民检察院</a></li>
+					<li><a href="http://www.gpzy.org/" target="_blank" title="公平正义网">公平正义网</a></li>
+					<li><a href="http://www.legaldaily.com.cn/" target="_blank" title="法制网">法制网</a></li>
+					<li><a href="http://" target="_blank" title="湖北省人民政府">湖北省人民政府</a></li>
+					<li><a href="http://www.cnhubei.com/" target="_blank" title="荆楚网">荆楚网</a></li>
+					<li><a href="http://www.court.gov.cn/" target="_blank" title="最高人民法院">最高人民法院</a></li>
+					<li><a href="http://www.spp.gov.cn/" target="_blank" title="最高人民检察院">最高人民检察院</a></li>
+					<li><a href="http://www.gov.cn/" target="_blank" title="中华人民共和国中央人民政府">中华人民共和国中央人民政府</a></li>
+					<li><a href="http://www.hubei.gov.cn/" target="_blank" title="湖北省人民政府网站">湖北省人民政府网站</a></li>
+                </ul>
+             	<div class="fLinkBottom"></div>
+             </div>			
+<div class="frameBottom">
+	<ul>
+    	<li class="center">版权所有：中国法制发展战略研究院</li>
+    	<li class="center">地址：武汉市东湖高新技术开发区南湖大道特一号</li>
+    	<li class="center">
+        	<span>传真：027-87108590</span>
+        	<span>邮箱：fazhihubei@qq.com</span>
+        </li>
+    	<li class="center">
+        浏览总量：
+<SCRIPT language=JavaScript>
+
+<!--
+
+var caution = false
+
+function setCookie(name, value, expires, path, domain, secure) {
+
+var curCookie = name + "=" + escape(value) +
+
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+
+((path) ? "; path=" + path : "") +
+
+((domain) ? "; domain=" + domain : "") +
+
+((secure) ? "; secure" : "")
+
+if (!caution || (name + "=" + escape(value)).length <= 4000)
+
+document.cookie = curCookie
+
+else
+
+if (confirm("Cookie exceeds 4KB and will be cut!"))
+
+document.cookie = curCookie
+
+}
+
+function getCookie(name) {
+
+var prefix = name + "="
+
+var cookieStartIndex = document.cookie.indexOf(prefix)
+
+if (cookieStartIndex == -1)
+
+return null
+
+var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
+
+if (cookieEndIndex == -1)
+
+cookieEndIndex = document.cookie.length
+
+return (document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
+
+}
+
+function deleteCookie(name, path, domain) {
+
+if (getCookie(name)) {
+
+document.cookie = name + "=" +
+
+((path) ? "; path=" + path : "") +
+
+((domain) ? "; domain=" + domain : "") +
+
+"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+
+}
+
+}
+
+function fixDate(date) {
+
+var base = new Date(0)
+
+var skew = base.getTime()
+
+if (skew > 0)
+
+date.setTime(date.getTime() - skew)
+
+}
+
+var now = new Date()
+
+fixDate(now)
+
+now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+
+var visits = getCookie("counter")
+
+if (!visits)
+
+visits = 1
+
+else
+
+visits = parseInt(visits) + 1
+
+setCookie("counter", visits, now)
+
+document.write( visits + 4737382 )
+
+// -->
+
+</SCRIPT>
+        </li>
+    </ul>
+</div>
+    
+    <script type="text/javascript" src="/r/cms/www/red/images/common_func.js"></script>
+    <script type="text/javascript">
+        try {
+            document.execCommand('BackgroundImageCache', false, true);
+        } catch (e) { }
+        function find_on(obj) {
+            var o = $(obj).offset();
+            $(obj).addClass('actived');
+            $(obj).find('>ul.nav-menu').css('left', o.left - 2 + 'px');
+        }
+        function find_up(obj, n) {
+            $(obj).removeClass('actived');
+        }
+        $(document).ready(function () {
+
+            $('#nav td.nav-item').mouseover(function () {
+                find_on(this);
+            }).mouseout(function () {
+                find_up(this);
+            });
+
+
+        });
+    </script>
+</body>
+</html>
+
