@@ -1,398 +1,110 @@
-<!doctype html><html class="nx-main980" >
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
-<meta name="Description" content="人人网 校内是一个真实的社交网络，联络你和你周围的朋友。 加入人人网校内你可以:联络朋友，了解他们的最新动态；和朋友分享相片、音乐和电影；找到老同学，结识新朋友；用照片和日志记录生活,展示自我。" />
-<meta name="Keywords" content="Xiaonei,Renren,校内,大学,同学,同事,白领,个人主页,博客,相册,群组,社区,交友,聊天,音乐,视频,校园,人人,人人网" />
-<meta property="qc:admins" content="232517306762562566375" />
-<meta property="wb:webmaster" content="f2fdc876b8ba2a5d" />
-<meta name="msApplication-ID" content="App" />
-<meta name="msApplication-PackageFamilyName" content="57722RenRenpreview.RenrenHD_fknrsfzqca1jw" /><link rel="shortcut icon" type="image/x-icon" href="http://a.xnimg.cn/favicon-rr.ico?ver=3" />
-<link rel="apple-touch-icon" href="http://a.xnimg.cn/wap/apple_icon_.png" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="pragma" content="no-cache" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="telephone=no" name="format-detection" />
+<title>中南财经政法大学</title>
+<meta name="keywords" content="中南财经政法大学,中南财经政法大学官网,中南大,ZUEL" />
+<meta name="description" content="中南财经政法大学是教育部直属的一所以经济学、法学、管理学为主干，兼有哲学、文学、史学、理学、工学、艺术学等九大学科门类的高等学府，是国家“211工程”和“985工程”优势学科创新平台项目重点建设高校，入选世界一流大学和一流学科（简称“双一流”）建设高校及建设学科名单。" />
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+
+
+       <LINK href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <LINK href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="6"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/41/65/template65/wap_res/libs/swiper/swiper.min.css">
+<link href="/_upload/tpl/00/41/65/template65/wap_res/style.css" rel="stylesheet">
+</head><body>
+<div class="wrapper" id="header"><div class="inner header wp-panel panel-1" frag="面板1"><div class="head-logo wp-window window-1" frag="窗口1" portletmode="simpleSiteAttri"><a class="site-url" href="/mainm.htm"><img src="/_upload/tpl/00/41/65/template65/wap_res/images/logo.png"/></a></div></div><a class="wp-search">搜索</a><div class="lang" frag="面板02"><div frag="窗口02"><!-- No Data --></div></div><div class="none search-bar wp-window window-3" frag="面板3"><div frag="窗口3" portletmode="search"><form method="POST" action="/_web/search/doSearch.do?locale=zh_CN&request_locale=zh_CN&_p=YXM9NiZ0PTY1JmQ9MzM4JnA9MTEmbT1TTiY_" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">
+    <div class="wp_search">
+        <table>
+            <tr>
+                <td height="25px">
+                    <input id="keyword" name="keyword" style="width: 150px" class="keyword" type="text" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }"
+                           onblur="if (this.value === '') { this.value = '请输入关键字'; }" />
+                </td>
+                <td>
+                    <input name="btnsearch" class="search" type="submit" value=""/>
+                </td>
+            </tr>
+        </table>
+    </div>
+</form></div></div><a class="navi-slide-arrow">导航</a></div><div class="wrapper" id="nav"><div class="inner nav wp-panel panel-2" frag="面板2"><div class="main-nav wp-window window-2" frag="窗口2"><ul class="wp-menu clearfix"><li class="menu-item i1"><a class="menu-link" href="/" target="_self">首 页</a></li><li class="menu-item i2"><a class="menu-link" href="/about/" target="_self">学校概况</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i2-1"><a class="sub-link" href="/about/" target="_self">学校简介</a></li><li class="sub-item i2-2"><a class="sub-link" href="/history/" target="_self">历史沿革</a></li><li class="sub-item i2-3"><a class="sub-link" href="/leaders2/" target="_self">历任领导</a></li><li class="sub-item i2-4"><a class="sub-link" href="/leaders/" target="_self">现任领导</a></li><li class="sub-item i2-5"><a class="sub-link" href="/departments/" target="_self">管理机构</a></li><li class="sub-item i2-6"><a class="sub-link" href="/schools/" target="_self">院系设置</a></li><li class="sub-item i2-7"><a class="sub-link" href="/motto_ui/" target="_self">校训校徽</a></li><li class="sub-item i2-8"><a class="sub-link" href="/story/" target="_self">中南映像</a></li></ul></li><li class="menu-item i3"><a class="menu-link" href="/departments/" target="_self">管理机构</a></li><li class="menu-item i4"><a class="menu-link" href="/schools/" target="_self">院系设置</a></li><li class="menu-item i5"><a class="menu-link" href="/teachers/listm.htm" target="_self">师资队伍</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i5-1"><a class="sub-link" href="/teachers/" target="_self">师资概况</a></li><li class="sub-item i5-2"><a class="sub-link" href="/wrjh/listm.htm" target="_self">万人计划</a></li><li class="sub-item i5-3"><a class="sub-link" href="/teachers_cjxz/listm.htm" target="_self">长江学者</a></li><li class="sub-item i5-4"><a class="sub-link" href="/whmjjwsgypwrc/listm.htm" target="_self">文化名家暨“四个一批”人才</a></li><li class="sub-item i5-5"><a class="sub-link" href="/teachers_gjbqw/" target="_self">百千万人才工程国家级人选</a></li><li class="sub-item i5-6"><a class="sub-link" href="/teachers_gwyjt/" target="_self">国务院政府特殊津贴</a></li><li class="sub-item i5-7"><a class="sub-link" href="/teachers_qgyxjygzz/" target="_self">全国优秀教育工作者等</a></li><li class="sub-item i5-8"><a class="sub-link" href="/teachers_jybjh/" target="_self">教育部青年教师资助计划、新世纪...</a></li><li class="sub-item i5-9"><a class="sub-link" href="/teachers_ctxz/" target="_self">楚天学者</a></li><li class="sub-item i5-10"><a class="sub-link" href="/teachers_hbms/" target="_self">湖北名师</a></li><li class="sub-item i5-11"><a class="sub-link" href="/teachers_hbs111/" target="_self">湖北省跨世纪111人才工程</a></li><li class="sub-item i5-12"><a class="sub-link" href="/teachers_hbxsjgcc/" target="_self">湖北新世纪高层次人才工程</a></li><li class="sub-item i5-13"><a class="sub-link" href="/teachers_hbsjt/" target="_self">湖北省政府专项津贴</a></li><li class="sub-item i5-14"><a class="sub-link" href="/teachers_hbstcgx/" target="_self">湖北有突出贡献中青年专家</a></li><li class="sub-item i5-15"><a class="sub-link" href="/teachers_wlxz/" target="_self">文澜学者</a></li><li class="sub-item i5-16"><a class="sub-link" href="/teachers_ejjs/" target="_self">二级教授</a></li></ul></li><li class="menu-item i6"><a class="menu-link" href="/teaching_learning/" target="_self">人才培养</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i6-1"><a class="sub-link" href="http://jwc.zuel.edu.cn/" target="_blank">本科教育</a></li><li class="sub-item i6-2"><a class="sub-link" href="http://yjsy.zuel.edu.cn/" target="_blank">研究生教育</a></li><li class="sub-item i6-3"><a class="sub-link" href="http://mba.zuel.edu.cn/" target="_blank">MBA教育</a></li><li class="sub-item i6-4"><a class="sub-link" href="http://sce.zuel.edu.cn/" target="_blank">继续教育</a></li><li class="sub-item i6-5"><a class="sub-link" href="http://xszz.zuel.edu.cn/" target="_blank">资助中心</a></li><li class="sub-item i6-6"><a class="sub-link" href="/reward/" target="_self">学校奖助学金</a></li><li class="sub-item i6-7"><a class="sub-link" href="/reward2/" target="_self">学院奖助学金</a></li></ul></li><li class="menu-item i7"><a class="menu-link" href="/recruit_jobs/" target="_self">招生就业</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i7-1"><a class="sub-link" href="/recruit_jobs/" target="_self">招生就业</a></li><li class="sub-item i7-2"><a class="sub-link" href="http://jyzx.zuel.edu.cn/" target="_blank">就业指导中心</a></li><li class="sub-item i7-3"><a class="sub-link" href="http://xgb.zuel.edu.cn/" target="_blank">学生工作部</a></li><li class="sub-item i7-4"><a class="sub-link" href="http://yjsy.zuel.edu.cn/" target="_blank">研究生院</a></li><li class="sub-item i7-5"><a class="sub-link" href="http://ies.zuel.edu.cn/" target="_blank">国际教育学院</a></li><li class="sub-item i7-6"><a class="sub-link" href="http://jwc.zuel.edu.cn/" target="_blank">教 务 部</a></li><li class="sub-item i7-7"><a class="sub-link" href="http://sce.zuel.edu.cn/" target="_blank">继续教育</a></li></ul></li><li class="menu-item i8"><a class="menu-link" href="/research/" target="_self">学术研究</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i8-1"><a class="sub-link" href="/subject/" target="_self">学科建设</a></li><li class="sub-item i8-2"><a class="sub-link" href="/organization/" target="_self">科研机构</a></li><li class="sub-item i8-3"><a class="sub-link" href="http://science.zuel.edu.cn/" target="_blank">科研管理</a></li><li class="sub-item i8-4"><a class="sub-link" href="http://gjc.zuel.edu.cn/" target="_blank">国际交流</a></li><li class="sub-item i8-5"><a class="sub-link" href="http://xuebao.zuel.edu.cn/" target="_self">学　　报</a></li><li class="sub-item i8-6"><a class="sub-link" href="http://fsyj.zuel.edu.cn/" target="_blank">法商研究</a></li></ul></li><li class="menu-item i9"><a class="menu-link" href="/exchange/" target="_self">交流服务</a><em class="menu-switch-arrow"></em><ul class="sub-menu clearfix"><li class="sub-item i9-1"><a class="sub-link" href="http://gjc.zuel.edu.cn/" target="_blank">国际交流</a></li><li class="sub-item i9-2"><a class="sub-link" href="/exchange/" target="_self">研究咨询</a></li><li class="sub-item i9-3"><a class="sub-link" href="/services/" target="_self">服务指南</a></li><li class="sub-item i9-4"><a class="sub-link" href="http://gjc.zuel.edu.cn/5673/list.htm" target="_blank">出访公示</a></li></ul></li></ul></div></div></div><div class="wrapper" id="slide"><div frag="面板4"><div frag="窗口4"><div id="wp_news_w4"> 
 <script type="text/javascript">
-XN = {get_check:'',get_check_x:'c1bc470e',env:{domain:'renren.com',shortSiteName:'人人',siteName:'人人网'}};
-try {
-window.onerror=function(){
-var a=arguments,e=encodeURIComponent,l=location,d=new Date();
-if(a.length!=3||a[2]==0)return 1;
-new Image().src=['http://s.renren.com/speedstats/jserror/stats.php?message='+e(a[0]),
-'url='+e(a[1]),'lineNo='+a[2],'location='+e(l),'time='+d.toLocaleTimeString()].join('&');
-return 1;
-};
-} catch (e){};
-</script><meta charset="utf-8"/>
-<link rel="shortcut icon" type="image/x-icon" href="http://a.xnimg.cn/favicon-rr.ico?ver=3" />
-<link rel="apple-touch-icon" href="http://a.xnimg.cn/wap/apple_icon_.png" />
-<link rel="stylesheet" type="text/css" href="http://s.xnimg.cn/a86614/nx/core/base.css">
-<script type="text/javascript">
-if(typeof nx === 'undefined'){
-var nx = {};
-}
-nx.log = {
-startTime : + new Date()
-};
-nx.user = {
-id : "",
-ruid:"",
-tinyPic	: " ",
-name : "",
-privacy: "",
-requestToken : '',
-_rtk : 'c1bc470e'
-};nx.user.isvip = false;nx.user.hidead = false;nx.webpager = nx.webpager || {};
-nx.production = true;
-</script>
-<script type="text/javascript" src="http://s.xnimg.cn/a83151/nx/core/libs.js"></script>
-<script type="text/javascript">
-define.config({map:{
-"backbone":"http://s.xnimg.cn/a75208/nx/core/backbone.js",
-"ui/draggable":"http://s.xnimg.cn/a70750/nx/core/ui/draggable.js",
-"ui/menu":"http://s.xnimg.cn/a70736/nx/core/ui/menu.js",
-"ui/resizable":"http://s.xnimg.cn/a70738/nx/core/ui/resizable.js",
-"ui/sortable":"http://s.xnimg.cn/a70749/nx/core/ui/sortable.js",
-"ui/tabs":"http://s.xnimg.cn/a78333/nx/core/ui/tabs.js",
-"ui/ceiling":"http://s.xnimg.cn/a76297/nx/core/ui/ceiling.js",
-"ui/columns":"http://s.xnimg.cn/a68070/nx/core/ui/columns.js",
-"ui/dialog":"http://s.xnimg.cn/a76395/nx/core/ui/dialog.js",
-"ui/fileupload":"http://s.xnimg.cn/a81310/nx/core/ui/fileupload.js",
-"ui/pagination":"http://s.xnimg.cn/a70307/nx/core/ui/pagination.js",
-"ui/placeholder":"http://s.xnimg.cn/a79685/nx/core/ui/placeholder.js",
-"ui/progressbar":"http://s.xnimg.cn/a62964/nx/core/ui/progressbar.js",
-"ui/rows":"http://s.xnimg.cn/a62964/nx/core/ui/rows.js",
-"ui/scroll":"http://s.xnimg.cn/a61518/nx/core/ui/scroll.js",
-"ui/scrollbar":"http://s.xnimg.cn/a76868/nx/core/ui/scrollbar.js",
-"ui/select":"http://s.xnimg.cn/a82096/nx/core/ui/select.js",
-"ui/slideshow":"http://s.xnimg.cn/a72804/nx/core/ui/slideshow.js",
-"ui/speech":"http://s.xnimg.cn/a77631/nx/core/ui/speech.js",
-"ui/textbox":"http://s.xnimg.cn/a79526/nx/core/ui/textbox.js",
-"ui/renren/textbox":"http://s.xnimg.cn/a92727/nx/core/ui/renren/textbox.js",
-"ui/tooltip":"http://s.xnimg.cn/a73228/nx/core/ui/tooltip.js",
-"ui/renren/addfriend":"http://s.xnimg.cn/a78457/nx/core/ui/renren/addFriendLayer.js",
-"ui/renren/at":"http://s.xnimg.cn/a78409/nx/core/ui/renren/atAndEmotion.js",
-"ui/renren/emotion":"http://s.xnimg.cn/a78409/nx/core/ui/renren/atAndEmotion.js",
-"ui/renren/commentCenter":"http://s.xnimg.cn/a83569/nx/core/ui/renren/commentCenter.js",
-"ui/renren/friendgroup":"http://s.xnimg.cn/a62964/nx/core/ui/renren/friendGroup.js",
-"ui/renren/friendListSelector":"http://s.xnimg.cn/a78513/nx/core/ui/renren/friendListSelector.js",
-"ui/renren/like":"http://s.xnimg.cn/a83569/nx/core/ui/renren/like.js",
-"nx/namecard":"http://s.xnimg.cn/a77668/nx/core/ui/renren/namecard.js",
-"ui/renren/pagelayer":"http://s.xnimg.cn/a62964/nx/core/ui/renren/pageLayer.js",
-"ui/renren/photoupload":"http://s.xnimg.cn/a82833/nx/core/ui/renren/photoupload.js",
-"ui/renren/privacy":"http://s.xnimg.cn/a76680/nx/core/ui/renren/privacy.js",
-"ui/renren/share":"http://s.xnimg.cn/a78999/nx/core/ui/renren/share.js",
-"ui/renren/vocal":"http://s.xnimg.cn/a77347/nx/core/ui/renren/vocal.js",
-"ui/renren/mvideo":"http://s.xnimg.cn/a80641/nx/core/ui/renren/mvideo.js",
-"ui/renren/with":"http://s.xnimg.cn/a82994/nx/core/ui/renren/with.js",
-"ui/clipboard":"http://s.xnimg.cn/a63417/nx/core/ui/clipboard.js",
-"app/publisher":"http://s.xnimg.cn/a91505/nx/core/app/publisher.js",
-"viewer":"http://s.xnimg.cn/a83025/nx/photo/viewer/js/viewer.js",
-"media/player": "http://s.xnimg.cn/nx/photo/viewer/js/mediaplayer.js",
-"ui/renren/like/commentseed":"http://s.xnimg.cn/a64636/nx/core/ui/renren/like.seed.comment.js",
-"ui/renren/like/seed":"http://s.xnimg.cn/a62964/nx/core/ui/renren/like.seed.js",
-"ui/renren/share/seed":"http://s.xnimg.cn/a62964/nx/core/ui/renren/share.seed.js",
-"ui/renren/follow":"http://s.xnimg.cn/a78456/nx/core/ui/renren/follow.js",
-"ui/renren/relationFollow":"http://s.xnimg.cn/a78457/nx/core/ui/renren/relationFollow.js",
-"ui/autocomplete":"http://s.xnimg.cn/a70736/nx/core/ui/autocomplete.js",
-"ui/showCommonFriend":"http://s.xnimg.cn/a78917/nx/core/ui/renren/showcommonfriend.js",
-"photo/circler":"http://s.xnimg.cn/a73344/nx/photo/phototerminal/js/circler.js",
-"ui/friendSearch":"http://s.xnimg.cn/a64338/nx/core/ui/renren/friendSearch.js",
-"ui/renren/replyOption":"http://s.xnimg.cn/a68256/nx/core/ui/renren/replyOption.js",
-"photo/avatarUpload": "http://s.xnimg.cn/a77340/nx/photo/upload-avata/js/avatarUpload.js",
-"ui/renren/school":"http://s.xnimg.cn/a85689/nx/core/ui/renren/school.js"
-}});
-nx.data.isDoubleFeed = Boolean();
-nx.data.isDoubleFeedGuide = Boolean();
-</script>
-<script type="text/javascript" src="http://s.xnimg.cn/a95943/nx/core/base.js"></script>
-<!--[if lt IE 9]>
-<script type="text/javascript">
-document.execCommand("BackgroundImageCache", false, true);
-</script>
-<![endif]-->
-<script type="text/javascript">nx.webpager.disable = true;</script>
-<link href="login.css" rel="stylesheet" type="text/css" media="all" />		
-
-<title>人人网，中国领先的实名制SNS社交网络。加入人人网，找到老同学，结识新朋友。</title><script src="http://s.xnimg.cn/a72842/n/core/base-all2.js" type="text/javascript"></script>
-</head>
-<body id="syshome" class="login">
-<div id="header">
-<div id="navBar" class="site-nav rr">
-<div class="navigation-wrapper">
-<div class="navigation navigation-new clearfix">
-<div id="logo2">
-<h1>
-<a href="http://www.renren.com" title="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏">
-<img alt="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏" title="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏" src="http://a.xnimg.cn/nx/apps/login/cssimg/logo-big.jpg" />
-</a>
-</h1>
-</div>
-<div class="nav-body clearfix">
-<div class="nav-other">
-<div class="menu">
-<a href="http://st.renren.com" target="_blank" class="st-btn">学生团体申请入口</a>
-</div>
-<div class="menu">
-<a id="reg_link" title="注册" stats="homenav_reg" href="http://wwv.renren.com/xn.do?ss=10131&rt=1&g=v6reg">注册</a>
-</div>
-<div class="menu">
-<a title="给我们提建议" stats="homenav_suggest" href="http://support.renren.com/link/suggest">反馈意见</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="opi" class="page-wrapper clearfix">
-<div class="full-page-holder">
-<div class="full-page"><div class="login-page clearfix login-wrap">
-<div class="side-column login-box">
-<div class="login-panel ">
-<div class="radiusimg">
-<div class="shadow"></div>
-<div class="pic"><img src="" id="personhead"/></div>
-<!-- <img src="http://a.xnimg.cn/nx/apps/login/cssimg/person.jpg"> -->
-</div>
-<span id="errorMessage" class="errors_div" style="display:none;"></span>
-<div class="yellow-error" id="yellow_error">
-<a class="close" href="javascript:closeError();"></a>
-<p class="wrong">您的用户名和密码不匹配</p>
-<p class="worp">为了账号安全，已向您的邮箱： <strong id="sendemail"></strong>发送了一封确认信，请通过邮件内链接登录。</p>
-<p class="m-26"><a id="gotoEmail" href="#" target="_blank">打开邮箱查收确认信</a></p>
-<p class="m-26"><a href="javascript:closeError();">重新输入</a></p>
-</div>
-<div class="yellow-error" id="account_stop">
-<a class="close" href="javascript:closeStop();"></a>
-<p class="wrong"></p>
-<p class="center">您的账号已停止使用，如有疑问请联系<a style="background:none;padding-left:0;" target="_blank" href="http://help.renren.com/#http://help.renren.com/support/contomvice?pid=2&selection={couId:193,proId:342,cityId:1000375}">客服</a></p>
-</div>
-<div class="yellow-error" id="account_lock">
-<a class="close" href="javascript:closeLock();"></a>
-<p class="wrong">您的账号由于以下某种原因需要解锁才能登录</p>
-<ol>
-<li>删除过账号</li>
-<li>长时间没有登录网站</li>
-<li>安全原因</li>
-</ol>
-<p class="center"><a href="http://safe.renren.com/relive.do">立即解锁</a></p>
-</div>
-<form method="post" id="loginForm" class="login-form" action="http://www.renren.com/PLogin.do">
-<dl class="top clearfix">
-<dd>
-<input type="text" name="email" class="input-text" id="email" tabindex="1" value="" />
-</dd>
-</dl>
-<dl class="pwd clearfix">
-<dd>
-<input type="password" id="password" name="password" error="请输入密码" class="input-text" tabindex="2"/>
-<label class="pwdtip" id="pwdTip" for="password">请输入密码</label>
-<a class="forgetPwd" id="forgetPwd" href="http://safe.renren.com/findPass.do" stats="home_findpassword">忘记密码？</a>
-</dd>
-</dl>
-<div class="caps-lock-tips" id="capsLockMessage" style="display:none"></div>
-<dl class="savepassword clearfix">
-<dt>
-<label title="为了确保您的信息安全，请不要在网吧或者公共机房勾选此项！" for="autoLogin" class="labelCheckbox">
-<input type="checkbox" name="autoLogin" id="autoLogin" value="true" tabindex="4" />下次自动登录
-</label>
-</dt>
-<dd>
-<span class="getpassword" id="getpassword"><a href="http://safe.renren.com/findPass.do" stats="home_findpassword">忘记密码？</a></span>
-</dd>
-</dl>
-<dl id="code" class="code clearfix">
-<dt><label for="code">验证码:</label></dt>
-<dd>
-<input id="icode" type="text" name="icode" class="input-text" tabindex="3" autocomplete="off" />
-<label class="codetip" id="codeTip" for="icode">请输入验证码</label>
-</dd>
-</dl>
-<dl id="codeimg" class="codeimg clearfix">
-<dt></dt>
-<dd><img id="verifyPic_login" src="http://icode.renren.com/getcode.do?t=web_login&rnd=Math.random()"/>
-</dd>
-<a class="changeone" href="javascript:refreshCode_login();" >换一个</a>
-</dl>
-<dl class="bottom">
-<input type="hidden" name="origURL" value="http://www.renren.com/home" />
-<input type="hidden" name="domain" value="renren.com" />
-<input type="hidden" name="key_id" value="1" />
-<input type="hidden" name="captcha_type" id="captcha_type" value="web_login" />
-<input type="submit" id="login" class="input-submit login-btn" stats="loginPage_login_button" value="登录" tabindex="5"/>
-</dl>
-</form>
-<div class="regnow">
-<input type="button" onclick="window.location='http://wwv.renren.com/xn.do?ss=10131&rt=1&g=v6reg'" id="regnow"  class="input-button login-btn regbutton" value="注册" tabindex="6" stats="loginPage_signUp_button" />
-</div>
-<p class="third-party-title"><span class="underscore left"></span><span class="text">第三方登录</span><span class="underscore right"></span></p>
-<div class="login_corp" >
-<div class="Third-partyi-login">
-	<a title="微信" class="login-item weixin" href="http://www.renren.com/api/jump?src=wx" id="login_weixin" stats="loginPage_weixin_link"></a>
-	 <a title="QQ" class="login-item qq" href="http://www.renren.com/api/jump?src=qq" id="login_qq" stats="loginPage_qq_link"></a>
-	 <a title="微博" class="login-item weibo" href="http://www.renren.com/api/jump?src=wb" id="login_weibo" stats="loginPage_weibo_link"></a>
-</div>
-</div>
-<div class="other-login clearfix">
-<div class="login-word login-item">其它账号登录：</div>
-<a  title="移动" class="login-item yidong" href="https://open.mmarket.com:443/omee-aus/services/oauth/authorize?responseType=code&scope=getUserInfo&clientId=300007884008&redirectUri=http%3A%2F%2Fwww.renren.com%2Fbind%2Fcnmobile%2FloginCallBack&clientState=9" id="login_cnmobile" stats="loginPage_baidu_link"></a>
-<a title="天翼" class="login-item tianyi" id="login_tianyi" href="https://oauth.api.189.cn/emp/oauth2/authorize?app_id=296961050000000294&response_type=code&redirect_uri=http://www.renren.com/bind/ty/tyLoginCallBack" stats="loginPage_tianyi_link"></a>
-<a title="360" class="login-item lo360" id="login_360" href="https://openapi.360.cn/oauth2/authorize?client_id=5ddda4458747126a583c5d58716bab4c&response_type=code&redirect_uri=http://www.renren.com/bind/tsz/tszLoginCallBack&scope=basic&display=default" stats="loginPage_360_link"></a>
- <a title="百度" class="login-item baidu" href="https://openapi.baidu.com/oauth/2.0/authorize?response_type=code&client_id=foRRWjPq8In3SIhmKQw1Pep3&redirect_uri=http%3A%2F%2Fwww.renren.com%2Fbind%2Fbaidu%2FbaiduLoginCallBack" id="login_baidu" stats="loginPage_baidu_link"></a>
-</div>
-</div>
-</div>
-<div class="main-column">
-<div id="mainRecommend" class="main-recommend">
-<div id="ad100000000061" data-pv="h01" class="wwwad"></div>
-<!--<script>
-load_jebe_ads(1)
-</script>-->
-<div class="login-recommend clearfix">
-<div class="intro">
-<div class="item">
-<a class="qrcode content" href="#nogo" target="_blank"></a>
-</div>
-<div class="item">
-<a class="phone content" href="http://zhibo.renren.com/client" target="_blank"></a>
-</div>
-<div class="item">
-<!--<a class="pad content" href="http://2014.renren.com/ipad" target="_blank"></a> -->
-<a class="pad content" href="http://down.renren.com/pczbzs/rrzb_Setup-13.exe" target="_blank"> </a>
-</div>
-<div class="item">
-<a class="other content" href="http://2014.renren.com/" target="_blank"></a>
-</div>
-    <div class="item">
-        <a class="music content" href="http://musics.renren.com/" target="_blank"> </a>
-            </div>
-                <div class="item">
-                    <a class="game content" href="http://renren-game.renren.com" target="_blank"> </a>
-                   </div>
-</div>
-</div>
-</div>
-</div>
-</div></div>
-</div>
-</div> 
-
-
- 
-<div class="ft-wrapper clearfix">
-	<p>
-		<strong>玩转人人</strong>
-		<a href="http://page.renren.com/register/regGuide/" target="_blank">公共主页</a>
-		<a href="http://zhibo.renren.com" target="_blank">美女直播</a>
-		<a href="http://support.renren.com/helpcenter" target="_blank">客服帮助</a>
-		<a href="http://www.renren.com/siteinfo/privacy" target="_blank">隐私</a>
-	</p>
-	<p>
-		<strong>商务合作</strong>
-		<a href="http://page.renren.com/marketing/index" target="_blank">品牌营销</a>
-		<a href="http://bolt.jebe.renren.com/introduce.htm" class="l-2" target="_blank">中小企业<br />自助广告</a>
-		<a href="http://dev.renren.com/" target="_blank">开放平台</a>
-        <a href="http://dsp.renren.com/dsp/index.htm" target="_blank">人人DSP</a>
-    </p>
-	<p>
-		<strong>公司信息</strong>
-		<!--<a href="http://www.renren-inc.com/zh/product/renren.html" target="_blank">关于我们</a>-->
-		<a href="http://www.donews.com/commom/aboutus" target="_blank">关于我们</a>
-		<a href="http://page.renren.com/gongyi" target="_blank">人人公益</a>
-		<a href="http://www.renren-inc.com/zh/hr/" target="_blank">招聘</a>
-		<a href="#nogo" id="lawInfo">法律声明</a>
-        <!--<a href="http://s.xnimg.cn/a92221/wap/mobile/Reporting/index.html" target="_blank">举报流程</a>-->
-        <a href="http://s.xnimg.cn/a95941/wap/mobile/Reporting/index.html" target="_blank">举报流程</a>
-	</p>
-	<p>
-		<strong>友情链接</strong>
-		<a href="http://fenqi.renren.com/" target="_blank">人人分期</a>
-		<a href="https://licai.renren.com/" target="_blank">人人理财</a>
-		<a href="http://www.woxiu.com/" target="_blank">我秀</a>
-		<a href="http://zhibo.renren.com/" target="_blank">人人直播</a>	
-		<a href="http://www.renren.com/" target="_blank">人人网</a>
-		<a href="https://www.kaixin.com" target="_blank">开心汽车</a>	
-	</p>
-	<p>
-		<strong>人人移动客户端下载</strong>
-		<a href="http://mobile.renren.com/showClient?v=platform_rr&psf=42064" target="_blank">iPhone/Android</a>
-		<a href="http://mobile.renren.com/showClient?v=platform_hd&psf=42067" target="_blank">iPad客户端</a>
-		<a href="http://mobile.renren.com" target="_blank">其他人人产品</a>
-	</p>
-	<!--<p class="copyright-info">-->
-	<!-- 临时添加公司信息用 -->
-	<p class="copyright-info" style="margi-left: -20px">
-		<span>公司全称：北京斗牛士文化传媒有限公司</span>
-		<span>公司电话：010-60845018</span>
-        <span><a href="mailto:kefu@renren.com">公司邮箱：kefu@renren.com</a></span>
-		<span>公司地址：北京市海淀区宝盛东路多牛传媒中心</span>
-		<span>违法和不良信息举报电话：024-31160919</span>
-		<span><a href="http://jb.ccm.gov.cn/" target="_blank">12318全国文化市场举报网站</a></span>
-        <span><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802029038">京公网安备 11010802029038号</a></span>
-		<span><a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img style="height: 22px;float: left; margin-left: 78px;" src="http://s.xnimg.cn/imgpro/civilization/jubaologoNew.png">网上有害信息举报中心</a></span>
-        <span><img id="wenhuajingying_icon" style="height: 28px;float: left; margin-left: 60px;" src="http://s.xnimg.cn/imgpro/civilization/wenhuajingying.png"/><a href="http://s.xnimg.cn/imgpro/xkz.png" target="_blank">京网文[2018]2361-237号</a></span>
-        <span><a href="http://s.xnimg.cn/imgpro/icp.png" target="_blank">京ICP证1510088号</a></span>
-		<span>人人网&copy;2016</span>
-		<span><img src="http://a.xnimg.cn/imgpro/black-logo.png" style="vertical-align: text-top;"></span>
-
-	</p>
-</div>
-<!-- dj埋码 -->
-<script type="text/javascript">
-function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}
-function goPAGE() {
-var currentUrl = window.location.href.split('#')[0];
-if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-    return "wap";
-}
-else {
-     return "pc";
- }
-}
-var judge = goPAGE();
-    (function(){
-        sendStats('http://dj.renren.com/seostat?j={"from":"login_'+window.location.hostname+'","dev":"'+judge+'","page":"'+window.location.href+'"}');
-        console.log('dj!!');
-    })();
-</script>
-
-<!--<script src="http://s.xnimg.cn/a95444/nx/apps/login/login.js" type="text/javascript" ></script> -->
-<script src="login.js" type="text/javascript" ></script>
-<script type="text/javascript" src="http://s.xnimg.cn/a89789/js/adstats.js"></script>
-    <script type="text/javascript">  
-<!--        var oad1 = document.querySelector('.wwwad');
-        scrollReq(oad1); -->
-
+					var slidesJSON = [
+					
+						{
+							url:"/_redirect?siteId=6&columnId=1261&articleId=223241",
+							src:"/_upload/article/images/f5/a7/6103ecd64a599aa262eb8d6e970b/95a8c309-53cc-41bb-99e4-71dd751845bc.jpg",
+							title:"<a href='/_redirect?siteId=6&columnId=1261&articleId=223241' target='_blank' title='&quot;不忘初心、牢记使命&quot; 主题教育'>&quot;不忘初心、牢记使命&quot; 主题教育</a>"
+						},
+					
+						{
+							url:"/2019/0918/c8201a223127/page.htm",
+							src:"/_upload/article/images/0d/a5/cb3b254946da84e65123960dce48/1203213a-741d-47e7-94e6-149228f060e5.jpg",
+							title:"<a href='/2019/0918/c8201a223127/page.htm' target='_blank' title='“教书育人奖”获得者赵兴罗：将选修课变成“必修课”的财政史老师'>“教书育人奖”获得者赵兴罗：将...</a>"
+						},
+					
+						{
+							url:"/2019/0911/c8190a222748/page.htm",
+							src:"/_upload/article/images/a5/21/51725056444eac93804322853e9d/8a7c40e5-41fa-40ee-b825-f46ca84d1340.jpg",
+							title:"<a href='/2019/0911/c8190a222748/page.htm' target='_blank' title='“教书育人奖”获得者卢现祥：新制度经济学的“传播者”'>“教书育人奖”获得者卢现祥：新...</a>"
+						},
+					
+						{
+							url:"/2019/0909/c8188a222634/page.htm",
+							src:"/_upload/article/images/27/15/6ad014f3437f9ef6b88bb4888f0d/0f239852-9a48-4213-9e9b-0b79fe94e3de.jpg",
+							title:"<a href='/2019/0909/c8188a222634/page.htm' target='_blank' title='致全校教职员工的慰问信'>致全校教职员工的慰问信</a>"
+						},
+					{}
+					];
+					slidesJSON.pop();</script></div> 
+</div></div><div class="swiper-container"><div class="swiper-wrapper"></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div></div><!--主体内容开始--><div class="wrapper" id="container"><div class="inner container"><div class="wp-panel panel-6" frag="面板6"><div class="wp-post post-6" frag="窗口6"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题"><span>文澜新闻</span></h3><div class="post-more" frag="按钮" type="更多"><a href="http://wellan.zuel.edu.cn/" class="w6_more"><span frag="按钮内容"><img src="/_upload/tpl/00/41/65/template65/wap_res/images/more.png" width="37" height="9"/></span></a></div></div></div><div class="post-body"><div id="wp_news_w6"> 
+<div class="post-item"><li class="item-1"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1234&articleId=223199"><span class="title">学校召开“不忘初心、牢记使命”主题教育动员部署大会</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-2"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1234&articleId=223299"><span class="title">杨灿明校长开讲新生第一课：“擎中原薪火 伴祖国共进”</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-20</div></span></a></li><li class="item-3"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1234&articleId=223194"><span class="title">奋斗的青春应与祖国同向同行 我校学子用青春实践故事真情告白祖国</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-4"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1234&articleId=223251"><span class="title">学校举行网络安全宣传周系列活动 聚焦网络安全和信息化建设</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-5"><a class="news-item clearfix" href="http://wellan.zuel.edu.cn/2019/0913/c1668a222861/page.htm"><span class="title">中国教育电视台将播放吴汉东教授专题片</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-13</div></span></a></li><li class="item-6"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1234&articleId=222815"><span class="title">学校举行“双一流”建设中期评估专家评审会</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-12</div></span></a></li></div></div> 
+</div></div></div><div class="wp-panel panel-7" frag="面板7"><div class="wp-post post-7" frag="窗口7"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题"><span>讲座预告</span></h3><div class="post-more" frag="按钮" type="更多"><a href="/lecture/listm.htm" class="w7_more"><span frag="按钮内容"><img src="/_upload/tpl/00/41/65/template65/wap_res/images/more.png" width="37" height="9"/></span></a></div></div></div><div class="post-body"><div id="wp_news_w7"> 
+<div class="post-item"><li class="item-1"><a class="news-item clearfix" href="http://finance.zuel.edu.cn/2019/0916/c1126a223001/page.htm?tdsourcetag=s_pcqq_aiomsg"><span class="title">刘晓东：后次贷危机时代美国房贷金融现状及其证券化趋势</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-17</div></span></a></li><li class="item-2"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1235&articleId=223166"><span class="title">张廷银：《陈情表》成为文学经典的传播学启示 </span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-3"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1235&articleId=223165"><span class="title">刘大先：晚近三十年文学与批评的经验与反思 </span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-4"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1235&articleId=223151"><span class="title">翁翕：Market Expanding or Market Stealing? Competition with Network Effects in Bike-Sharing</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">09-18</div></span></a></li><li class="item-5"><a class="news-item clearfix" href="http://fa-ce.zuel.edu.cn/fzdjt/7333.jhtml"><span class="title">詹姆斯·汉密尔顿：检察官在维护法治方面的作用  </span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">07-01</div></span></a></li><li class="item-6"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=1235&articleId=220892"><span class="title">陈嵘：New Approaches to Statistical Learning of Modern Time Series</span>  <span class="item-date"><div class="date-t">2019</div><div class="date-b">06-27</div></span></a></li></div></div> 
+</div></div></div><div class="wp-panel panel-8" frag="面板8"><div class="wp-post post-8" frag="窗口8"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题"><span>学术聚焦</span></h3><div class="post-more" frag="按钮" type="更多"><a href="/academic/listm.htm" class="w8_more"><span frag="按钮内容"><img src="/_upload/tpl/00/41/65/template65/wap_res/images/more.png" width="37" height="9"/></span></a></div></div></div><div class="post-body"><div id="wp_news_w8"> 
+<div class="post-item"><li class="item-1"><div class="news-item clearfix" href="/2019/0904/c1236a222377/pagem.htm"><span class="title">   <span class="news_bt"><a href='/2019/0904/c1236a222377/pagem.htm' target='_blank' title='万后芬：新中国成立70年来大陆高等教育的发展'>万后芬：新中国成立70年来大陆高等教育的发展</a></span>   <span class="news_jj"><a href='/2019/0904/c1236a222377/pagem.htm' target='_blank' title='万后芬：新中国成立70年来大陆高等教育的发展'>习近平总书记指出：教育兴则国家兴，教育强则国家强。高等教育发展水平是一个国家发展...</a></span></span>   <span class="news_slt">   <span class="news_box">   <a href='/2019/0904/c1236a222377/pagem.htm' target='_blank' title='万后芬：新中国成立70年来大陆高等教育的发展'><img src='/_upload/article/images/5b/7f/4de37e444796be86157bd5020bde/f3daa02c-7bfd-4b34-826a-013f30517d74_s.jpg' width='320' /></a>              <span class="item-date-xs">2019-09-04</span>   </span>   </span></div></li></div></div> 
+</div></div></div><div class="wp-panel panel-9" frag="面板9"><div class="wp-post post-9" frag="窗口9"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题"><span>通知公告</span></h3><div class="post-more" frag="按钮" type="更多"><a href="/notice/" class="w9_more"><span frag="按钮内容"><img src="/_upload/tpl/00/41/65/template65/wap_res/images/more.png" width="37" height="9"/></span></a></div></div></div><div class="post-body"><div id="wp_news_w9"> 
+<div class="post-item"><li class="item-1"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=314&articleId=223218"><span class="title">关于大型车辆作业需借道的通知</span>  <span class="item-date">2019-09-18</span></a></li><li class="item-2"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=314&articleId=222540"><span class="title">2019年第十一届全国大学生数学竞赛初赛报名通知</span>  <span class="item-date">2019-09-06</span></a></li><li class="item-3"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=314&articleId=222428"><span class="title">关于谨防高等学历继续教育招生诈骗的声明</span>  <span class="item-date">2019-09-04</span></a></li><li class="item-4"><a class="news-item clearfix" href="/_redirect?siteId=6&columnId=314&articleId=221840"><span class="title">中南财经政法大学2019年国际联合培养学位项目招生简章</span>  <span class="item-date">2019-07-29</span></a></li><li class="item-5"><a class="news-item clearfix" href="/2019/0718/c314a221730/pagem.htm"><span class="title">暑期施工公告</span>  <span class="item-date">2019-07-18</span></a></li><li class="item-6"><a class="news-item clearfix" href="http://jwc.zuel.edu.cn/2019/0710/c5769a221525/page.htm"><span class="title">关于我校2019年拟新设专业（方向）的公示</span>  <span class="item-date">2019-07-10</span></a></li></div></div> 
+</div></div></div><div class="wp-panel panel-10" frag="面板10"><div class="wp-post post-10" frag="窗口10"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题"><span>服务指南</span></h3></div></div><ul class="wp-menu1 clearfix"><li class="menu-item1 i1"><a class="menu-link1" href="/phone/" target="_self">办公电话</a></li><li class="menu-item1 i2"><a class="menu-link1" href="http://oa.zuel.edu.cn/" target="_blank">办公系统</a></li><li class="menu-item1 i3"><a class="menu-link1" href="/guide/" target="_self">校园导游</a></li><li class="menu-item1 i4"><a class="menu-link1" href="/services/#timetable" target="_self">学校校历</a></li><li class="menu-item1 i5"><a class="menu-link1" href="/services/#network" target="_self">网络服务</a></li><li class="menu-item1 i6"><a class="menu-link1" href="/services/#information" target="_self">信息系统</a></li><li class="menu-item1 i7"><a class="menu-link1" href="/services/#download" target="_self">常用下载</a></li><li class="menu-item1 i8"><a class="menu-link1" href="/links/" target="_self">重要链接</a></li><li class="menu-item1 i9"><a class="menu-link1" href="/sitemap/" target="_self">本站地图</a></li></ul></div></div></div></div><!--//主体内容结束--><div id="link"><div class="inner"><div class="wp-panel panel-11" frag="面板11"><div class="wp-post post-11" frag="窗口11"><div class="post-head"><div class="head-bar"><h3 class="post-title" frag="标题">快速链接</h3></div></div><ul class="wp-menu2 clearfix"><li class="menu-item2 i1"><a class="menu-link2" href="http://library.zuel.edu.cn/" target="_blank">图书馆</a></li><li class="menu-item2 i2"><a class="menu-link2" href="http://museum.zuel.edu.cn" target="_blank">博物馆</a></li><li class="menu-item2 i3"><a class="menu-link2" href="http://alumni.zuel.edu.cn/" target="_blank">校友总会</a></li><li class="menu-item2 i4"><a class="menu-link2" href="http://jyjs.zuel.edu.cn/" target="_blank">教育技术网</a></li><li class="menu-item2 i5"><a class="menu-link2" href="http://epaper.zuel.edu.cn/" target="_blank">网络校报</a></li><li class="menu-item2 i6"><a class="menu-link2" href="http://weibo.com/zuel" target="_blank">校园微博</a></li><li class="menu-item2 i7"><a class="menu-link2" href="http://xszz.zuel.edu.cn/" target="_blank">学生资助</a></li><li class="menu-item2 i8"><a class="menu-link2" href="http://xlzx.zuel.edu.cn/" target="_blank">心理咨询</a></li><li class="menu-item2 i9"><a class="menu-link2" href="http://faculty.zuel.edu.cn/" target="_blank">教师主页</a></li><li class="menu-item2 i10"><a class="menu-link2" href="http://xxgk.zuel.edu.cn/" target="_blank">信息公开</a></li><li class="menu-item2 i11"><a class="menu-link2" href="http://czzx.zuel.edu.cn/" target="_blank">招标信息</a></li><li class="menu-item2 i12"><a class="menu-link2" href="http://rsb.zuel.edu.cn/" target="_blank">人才招聘</a></li></ul></div></div></div></div><!--底部开始--><footer class="wrapper" id="footer"><div class="inner footer" frag="面板5"><div class="footer-info" frag="窗口5"><div class="articlecontent " >
+    
+        
             
-    </script>
-    <!--
-    <script>
-    define(['jquery'], function ($) {
-          var additionals = [ 
-              { type: 'music', value: '音乐', image: 'http://a.xnimg.cn/nx/apps/login/cssimg/music.jpg', url: 'http://musics.renren.com/' },
-                  { type: 'game', value: '游戏', image: 'http://a.xnimg.cn/nx/apps/login/cssimg/game.jpg', url: 'http://renren-game.renren.com' }
-                     ]
+                <p><a href="http://t.qq.com/wizuel" target="_blank" style="margin-right:10px;"><img data-layer="photo" src="/_upload/article/images/60/4a/22467caa4d53a49262e4d92a7602/c7c1b76c-ad4a-4002-b97a-a6756b116fb7.png" /></a><a href="http://weibo.com/zuel" target="_blank" style="margin-right:10px;"><img data-layer="photo" src="/_upload/article/images/60/4a/22467caa4d53a49262e4d92a7602/dd619aac-679c-49ce-8668-ca38ff3dadf7.png" /></a><a href="http://www.renren.com" target="_blank" style="margin-right:10px;"><img data-layer="photo" src="/_upload/article/images/60/4a/22467caa4d53a49262e4d92a7602/e9faa1b3-c302-4573-8136-4524607a1b7b.png" /></a></p>
+            
+        
+    
+</div><p><span class="site-copyright">Copyright©中南财经政法大学 All Rights Reserved.</span><span class="site-address">地址：湖北省武汉市东湖新技术开发区南湖大道182号</span><span class="site-support">邮编：430073  电话：027-88386114  </span><span class="site-icp">鄂公网安备42018502002264号<br/>鄂ICP备05003344号</span></p></div></div></footer><!--//底部结束--><p><a id="back-top"></a></p><script type="text/javascript" src="/_upload/tpl/00/41/65/template65/wap_res/libs/swiper/swiper.min.js"></script><script type="text/javascript" src="/_upload/tpl/00/41/65/template65/wap_res/js/base.js"></script><script type="text/javascript">
+	$(function(){
 
-                        var $intro = $('<div class="intro"></div>')
-                           $intro
-                               .on('mouseenter', '.item', function (e) {
-                                           $(this).addClass('active').removeClass('unactive')
-                                               })
-                                   .on('mouseleave', '.item', function (e) {
-                                               $(this).removeClass('active').addClass('unactive')
-                                                   })
-                                      
-                                         $.each(additionals, function (index, item) {
-                                                   var $item =  $('<div class="item unactive"></div>').css({ position: 'relative' })
-                                                         $('<a class="' + item.type + ' content" href="' + item.url + '"></ a>')
-                                                                 .attr({ target: '_blank', hidefocus: true  })
-                                                                         .css({ background: 'url(' + item.image + ') 0 0 no-repeat' })
-                                                                                 .appendTo($item)
-                                                                                       $intro.append($item)
-                                                                                          })
-
-                                            $('.login-recommend').append($intro)
-    })
-    </script>
-    -->
+		var mySwiper = new Swiper ('.swiper-container', {
+		    loop: true,
+            initialSlide :1,
+		    // 如果需要前进后退按钮
+		    nextButton: '.swiper-button-next',
+		    prevButton: '.swiper-button-prev'
+		});
+		var slides = [],
+			slidesData = slidesJSON || [];
+		$.each(slidesData, function(index, val) {
+			 slides.push('<div class="swiper-slide"><a href="'+val.url+'"><img src="'+val.src+'" alt="'+val.title+'" /></a><div class="title1">'+val.title+'</div></div></div>');
+		});
+		mySwiper.appendSlide(slides);
+	});</script>
 </body>
-<script src="music_ext.js" type="text/javascript" ></script>
 </html>
+ <img src="/_visitcount?siteId=6&type=1&columnId=20" style="display:none" width="0" height="0"></image>
